@@ -1,0 +1,3 @@
+# Exploratory Analysis with Linear Regressions
+
+This project use set of data and drive information from it by using Python , pandas , sklearn and Linear Regressions.
